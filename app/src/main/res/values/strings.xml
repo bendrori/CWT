@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversions</string>
+    <string name="filter_edit_text_home">filter</string>
+    <string name="loading_home">loading…</string>
+    <string name="failed_to_download">failed to download conversion</string>
+    <string name="failed_to_find">failed to find conversion</string>
+</resources>
